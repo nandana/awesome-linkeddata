@@ -20,6 +20,13 @@ A list of tools for publishing and consuming Linked Data.
 * [Flint SPARQL Editor](http://openuplabs.tso.co.uk/demos/sparqleditor)
 * [Wikidata Query Service](https://query.wikidata.org/) - Result Visualization, Tiny URIs, etc.
 
+#### SPARQL Result Visualization 
+*[Sgvizler](http://dev.data2000.no/sgvizler/)
+*[LinkedWiki extension for Mediawiki](https://www.mediawiki.org/wiki/Extension:LinkedWiki)
+
+
+
+
 ## Data extraction tools
 * [Wandora](http://wandora.org/www/)
 
