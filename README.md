@@ -17,3 +17,4 @@ A list of tools for publishing and consuming Linked Data.
   
 #### SPARQL editors
 * [YASGUI, Yet Another Sparql GUI](http://about.yasgui.org/)
+* [Flint SPARQL Editor](http://openuplabs.tso.co.uk/demos/sparqleditor)
