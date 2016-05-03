@@ -21,14 +21,16 @@ A list of tools for publishing and consuming Linked Data.
 * [Wikidata Query Service](https://query.wikidata.org/) - Result Visualization, Tiny URIs, etc.
 
 #### SPARQL Result Visualization 
-*[Sgvizler](http://dev.data2000.no/sgvizler/)
-*[LinkedWiki extension for Mediawiki](https://www.mediawiki.org/wiki/Extension:LinkedWiki)
-
-
-
+* [Sgvizler](http://dev.data2000.no/sgvizler/)
+* [LinkedWiki extension for Mediawiki](https://www.mediawiki.org/wiki/Extension:LinkedWiki)
 
 ## Data extraction tools
 * [Wandora](http://wandora.org/www/)
+
+## Linked Data Catologues
+* [LOD Laundromat](http://lodlaundromat.org/)
+* [LOD4ALL](http://lod4all.net/index.html)
+* [IO Data Science Paris-Saclay](https://io.datascience-paris-saclay.fr/)
 
 ## Technology Providers 
 * [BorderCloud](http://www.bordercloud.com/)
