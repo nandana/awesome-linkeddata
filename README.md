@@ -36,6 +36,7 @@ A list of tools for publishing and consuming Linked Data.
 * [Rhizomer](http://rhizomik.net/html/rhizomer/)
 * [Coclus](http://ws.nju.edu.cn/coclus/)
 * [SView](http://ws.nju.edu.cn/sview/)
+* [LOD Live](http://en.lodlive.it/) ??
 
 ## Technology Providers 
 * [BorderCloud](http://www.bordercloud.com/)
