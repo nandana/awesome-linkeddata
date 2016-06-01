@@ -37,7 +37,7 @@ A list of tools for publishing and consuming Linked Data.
 * [Coclus](http://ws.nju.edu.cn/coclus/)
 * [SView](http://ws.nju.edu.cn/sview/)
 * [LOD Live](http://en.lodlive.it/) ??
-*
+* [Linked Data Reactor](http://research.ld-r.org/)
 
 ## Link Discovery
 * [Relationship Discovery](http://www.visualdataweb.org/relfinder.php)
