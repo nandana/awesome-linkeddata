@@ -24,6 +24,12 @@ A list of tools for publishing and consuming Linked Data.
 * [Sgvizler](http://dev.data2000.no/sgvizler/)
 * [LinkedWiki extension for Mediawiki](https://www.mediawiki.org/wiki/Extension:LinkedWiki)
 
+## Data to APIs
+* [THE DATATANK](http://thedatatank.com/)
+* [grlc](http://grlc.io/) 
+* [BASIL](https://github.com/the-open-university/basil)
+* [LimeDS](http://limeds.be/)
+
 ## Data extraction tools
 * [Wandora](http://wandora.org/www/)
 
