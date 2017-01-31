@@ -29,6 +29,7 @@ A list of tools for publishing and consuming Linked Data.
 * [grlc](http://grlc.io/) 
 * [BASIL](https://github.com/the-open-university/basil)
 * [LimeDS](http://limeds.be/)
+* [Linked Data-Fu](https://linked-data-fu.github.io/)
 
 ## Data extraction tools
 * [Wandora](http://wandora.org/www/)
