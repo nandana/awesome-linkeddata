@@ -34,6 +34,16 @@ A list of tools for publishing and consuming Linked Data.
 ## Data extraction tools
 * [Wandora](http://wandora.org/www/)
 
+## CSV to RDF
+* [Open Refine](http://openrefine.org/)
+* [Tarql: SPARQL for Tables](https://github.com/tarql/tarql)
+* [SPARQL-Generate](http://w3id.org/sparql-generate/)
+* [csv2rdf4lod](https://github.com/timrdf/csv2rdf4lod-automation)
+* [setlr: The Semantic Extract, Transform and Load-er](https://github.com/tetherless-world/setlr)
+* [Cellfie Protégé Plugin](https://github.com/protegeproject/cellfie-plugin)
+* [GraphDB’s OntoRefine](http://ontotext.com/tabular-data-rdf-graphdb/)
+* [Sentient Knowledge Explorer](http://www.io-informatics.com/products/sentient-KE.html)
+
 ## Linked Data Catologues
 * [LOD Laundromat](http://lodlaundromat.org/)
 * [LOD4ALL](http://lod4all.net/index.html)
