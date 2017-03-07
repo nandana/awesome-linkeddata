@@ -62,3 +62,19 @@ A list of tools for publishing and consuming Linked Data.
 ## Technology Providers
 * [BorderCloud](http://www.bordercloud.com/)
 * [Triply](http://triply.cc)
+
+
+## Ontology tools
+
+### Ontology editors 
+* [Protégé](http://protege.stanford.edu/)
+
+### Ontology validations 
+* [OntOlogy Pitfall Scanner!](http://oops.linkeddata.es/)
+
+### Ontology catalogues 
+* [LOV](http://lov.okfn.org/)
+* [OntoHub](https://ontohub.org/)
+
+### API libraries 
+* [OWL API](http://owlapi.sourceforge.net/)
